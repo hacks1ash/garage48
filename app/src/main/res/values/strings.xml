@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Car Wash</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="van">Van</string>
+    <string name="sedan">Sedan</string>
+    <string name="suv">SUV</string>
+    <string name="choose_vehicle_type">Choose Vehicle Type</string>
+    <string name="title_activity_makean_order">Make an Order</string>
+    <string name="confirm">Confirm</string>
+    <string name="car_licence_plate">Car Licence Plate</string>
+    <string name="address">Address</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="title_activity_service_choose">Service Choose</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
